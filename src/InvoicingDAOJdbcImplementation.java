@@ -5,12 +5,9 @@ import java.sql.SQLException;
 
 /**
  * This is a very (VERY!) basic implementation of a DAO, just to illustrate the problems
- * that coupling can cause. Later in the course we will implement production standard DAOs.
+ * that coupling can cause. 
  * 
  * Not to be used in a real application! In particular, the exception handling is not complete.
- *
- * Author Richard Chesterwood
- * Date 31 October 2013
  */
 public class InvoicingDAOJdbcImplementation implements InvoicingDAO
 {
