@@ -1,6 +1,5 @@
 /**
  * A Very basic demonstration of what a container does.
- * Don't worry, we'll use a "real" one in the next chapter!
  */
 public class CrudeContainer 
 {
